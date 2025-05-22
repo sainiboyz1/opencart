@@ -45,3 +45,20 @@
 2025-05-20 16:27:31 INFO  Utils:112 - [TestNG] Running:
   C:\Users\Amit\Downloads\OpencartV121-master\OpencartV121-master\master.xml
 
+2025-05-22 16:38:13 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-05-22 16:38:14 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-05-22 16:38:15 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-05-22 16:38:15 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-05-22 16:38:17 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-05-22 16:38:17 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-05-22 16:38:17 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-05-22 16:38:30 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-05-22 16:47:36 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-05-22 16:47:36 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-05-22 16:47:37 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-05-22 16:47:37 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-05-22 16:47:39 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-05-22 16:47:39 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-05-22 16:47:39 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-05-22 16:47:51 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-05-22 16:47:53 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
